@@ -15,7 +15,7 @@ app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
 app.config['MAIL_USERNAME'] = 'balbirs2204@gmail.com'
-app.config['MAIL_PASSWORD'] = 'xxxxxxxxxxx'  # Ensure this is your App Password
+app.config['MAIL_PASSWORD'] = 'txgwsmpafthcdpru'  # Ensure this is your App Password
 mail = Mail(app)
 
 def create_upload_folder():
